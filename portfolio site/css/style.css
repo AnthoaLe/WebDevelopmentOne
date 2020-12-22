@@ -1,0 +1,45 @@
+/*
+
+Project Name: My Portfolio
+Client: Anhoa Le
+
+*/
+
+body {
+    background: url('../images/Pembroke-Welsh-Corgi-standing-outdoors-in-the-fall.jpg');
+    /* the follow is the code to have the image display as a full page */
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#container {
+    background: #BBE5ED;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+    width: 570px;
+    height: 100%;
+}
+
+h1 {
+    color: #B399A2;
+    font-size: 80px;
+}
+
+h2 {
+    background: #986C6A;
+    color: #784F41;
+}
+
+a {
+    color: #BFBCCB;
+    text-decoration: none;
+}
+
+#funny {
+    font-family: 'Langar', cursive;
+}

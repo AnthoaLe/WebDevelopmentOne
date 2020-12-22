@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62bfe3b4-f3c4-4411-b4c2-0a0dc40188bd" name="Default Changelist" comment="First commit, testing files" />
+    <list default="true" id="62bfe3b4-f3c4-4411-b4c2-0a0dc40188bd" name="Default Changelist" comment="testing portfolio website created">
+      <change afterPath="$PROJECT_DIR$/portfolio site/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio site/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio site/images/GitHub-Mark-64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio site/images/GitHub-Mark-Light-64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio site/images/Pembroke-Welsh-Corgi-standing-outdoors-in-the-fall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second site/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/second site/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/second site/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -28,7 +39,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio site/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -39,7 +51,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jkric\WebstormProjects\WebDevelopmentOne\portfolio site\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jkric\WebstormProjects\WebDevelopmentOne\portfolio site\css" />
       <recent name="E:\Users\Anhoa\WebstormProjects\WebDevelopmentOne" />
       <recent name="E:\Users\Anhoa\WebstormProjects\WebDevelopmentOne\images\practice site" />
     </key>
@@ -53,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608292640346</updated>
       <workItem from="1608292641921" duration="7838000" />
+      <workItem from="1608607476243" duration="6090000" />
     </task>
     <task id="LOCAL-00001" summary="First commit, testing files">
       <created>1608357367102</created>
@@ -67,8 +84,20 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit, testing files" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit, testing files" />
+    <MESSAGE value="testing portfolio website created" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing portfolio website created" />
   </component>
 </project>
